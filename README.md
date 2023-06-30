@@ -2,7 +2,7 @@
 Final Project Report in AI in Audio Course (Reichman University)
 by Idan Kashtan
 
-<img src="Unet_architecture.jpg" alt="YouTube System Architecture" width="400"/>
+<img src="Unet_architecture.jpg" alt="Unet architecture" width="400"/>
 
 Audio Source Separation is the problem of recovering or reconstructing one or more
 source signals that have been mixed with other signals through some linear or convolutive process. 
